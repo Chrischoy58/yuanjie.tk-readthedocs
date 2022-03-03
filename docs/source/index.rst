@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to Yuan Jie Minecraft Server documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
+**Yuan Jie Minecraft Server**
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Rules 
+   How to join the server(minecraft java)
+   How to join the server(minecraft bedrock)
