@@ -8,6 +8,5 @@ Contents
 
 .. toctree::
 
-   :Rules:
    :How to join the server(minecraft java):
    :How to join the server(minecraft bedrock):
